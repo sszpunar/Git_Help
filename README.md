@@ -41,7 +41,15 @@ git commit -am "<commit description>" (i.e. "initial commit")
 ```
 git checkout <repository_branch> (i.e. TLA-1234/featureDescription)
 git pull origin develop
+
+OR
+
+git fetch origin develop
 ```
+
+## File Unstaging
+
+```git reset HEAD <file_name>```
 
 # Windows Console Commands
 
