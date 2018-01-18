@@ -49,7 +49,7 @@ git fetch origin develop
 
 ## File Unstaging
 
-```git reset HEAD <file_name>```
+```git reset HEAD <file_name> (i.e. README.md)```
 
 # Windows Console Commands
 
