@@ -32,7 +32,7 @@ git add -A
 git commit -am "<commit description>" (i.e. "initial commit")
 ```
 
-* Branches should be named in the following convention: TLA-1234/featureDescription
+* Branches should be named in the following convention: "TLA-1234/featureDescription"
 * "TLA_1234" is the JIRA ticket number
 * "featureDescription" is the brief, camel-cased description of the changes being made
 
