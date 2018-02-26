@@ -1,4 +1,4 @@
-# National Audubon Society GitHub
+# SEAS GitHub
 
 ```https://github.com/audubongit```
 
