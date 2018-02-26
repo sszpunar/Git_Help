@@ -1,6 +1,6 @@
 # SEAS GitHub
 
-```https://github.com/audubongit```
+```https://github.com/sszpunar```
 
 ## New Repository Setup
 
